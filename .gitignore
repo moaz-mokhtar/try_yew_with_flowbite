@@ -1,0 +1,28 @@
+# Rust/Cargo
+/target/
+Cargo.lock
+Cargo.toml.orig
+
+# Yew
+.yew/
+.yew.json
+
+# Node.js/npm
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+# Build artifacts
+/dist/
+/pkg/
+
+# Editor-specific files
+.idea/
+.vscode/
+*.swp
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
