@@ -32,12 +32,19 @@
 This is an illustraiton to show how to use [Flowbite](flowbite.com/) framework with Yew framework.
 
 
-My goals:
+**My goals**
 - Using Rust in backendend and frontend
 - Develop a web app with support to RTL (Arabic) and LTR (English)
 - I like FLowbite framework and I want to use it with Yew to minimize effort.
 
+---
 
+**Screen sample**
+![Screenshot from 2023-09-06 20-34-18](https://github.com/moaz-mokhtar/try_yew_with_flowbite/assets/5870208/362bce38-859b-4348-a873-deb743f2ee14)
+
+
+
+---
 
 My feedback till now:
 - Flowbite can be used with Yew, but need some customization because not all scripts are done.
