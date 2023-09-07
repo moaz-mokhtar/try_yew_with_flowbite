@@ -29,7 +29,7 @@
 
 # Try and experimenting using Flowbite framework with Yew
 
-This is an illustraiton to show how to use [Flowbite](flowbite.com/) framework with Yew framework.
+This is an illustraiton to show how to use [Flowbite](https://flowbite.com) framework with Yew framework.
 
 
 **My goals**
